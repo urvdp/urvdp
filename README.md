@@ -6,7 +6,7 @@ I like to code in the area of web applications with python as backend using Flas
 Originally, I started working in the spanish department. I love the Latino culture and I am eager to improve my spanish in every occasion.
 After one semester I joined the database team adittionally to optimize the daily workflow adding new features to the registration platform.
 
-- 🔭 I’m currently working on implementing a rich text editor to the send-mail form.
+- 🔭 I’m currently working on Bachelor's thesis programming a real-time controller in mujoco simulation.
 - 🌱 I’m currently learning python/Flask
 <!--
 - 👯 I’m looking to collaborate on ...
